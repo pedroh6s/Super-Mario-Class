@@ -45,8 +45,7 @@ metodos_heroi = ['normal', 'pegar_item', 'super_cogumelo', 'flor_de_fogo', 'pena
 
 <img width="600px" src="https://user-images.githubusercontent.com/73259056/137421450-57423511-c833-4838-89e3-92826602b7d0.png"/>
 
-<img width="600px" src="https://www.mariowiki.com/File:ValleyOfBowser.png"/>
-
+<img width="600px" src="https://mario.wiki.gallery/images/6/6e/ValleyOfBowser.png"/>
 
 
 <img width="600px" src="https://user-images.githubusercontent.com/73259056/137402425-3b813ca9-336e-4fea-9b98-84ee45c2ac1e.png"/>
