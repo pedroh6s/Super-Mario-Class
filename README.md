@@ -1,6 +1,5 @@
 # super_mario_class
 
-
 <img width="600px" src="https://user-images.githubusercontent.com/73259056/137406586-e301891f-ea6e-4cab-ba64-305a88e6a307.png"/>
 
 Contadores = ['vidas', 'estrelas', 'moedas', 'pontos', 'tempo']
@@ -11,6 +10,25 @@ Contadores = ['vidas', 'estrelas', 'moedas', 'pontos', 'tempo']
 Contador de moedas:
 
 > Se contador passar de 99 -> reseta contagem de acordo com a coleta de moedas -> Contador de vidas recebe mais 1
+
+
+<img width="600px" src="https://images.mariouniversalis.fr/images/jeux/104/smw15.PNG"/>
+
+> Se Mario Andar -> Mario cai no abismo -> Mario morre
+
+> Se Mario Pular
+
+>> Se pular o suficiente -> Mario não cai no abismo
+
+>> Se não pular o suficiente
+
+>>> Se Mario não tiver Yoshi -> cai no abismo -> Mario morre
+
+>>> Se Mario tiver Yoshi
+
+>>>> Se Mario abandonar Yoshi -> Mario não cai no abismo
+
+>>>> Se Mario não abandonar Yoshi -> cai no abismo -> Mario morre
 
 <img width="600px" src="https://user-images.githubusercontent.com/73259056/137403278-e78b84bf-fb8d-47e7-b9a8-c5f2bbcdd2bc.png"/>
 
@@ -47,4 +65,6 @@ Quando Mario é atingido:
 
 >> Senão -> método atual do Mario recebe normal 
 
-<img width="600px" src=""/>
+<img width="600px" src="https://user-images.githubusercontent.com/73259056/137419024-45a6c536-a963-4872-a338-9cbbf2a40a27.png"/>
+
+Função de criar blocos
