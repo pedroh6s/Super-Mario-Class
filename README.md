@@ -22,8 +22,6 @@ Foi pedido que a aula contemplasse os tópicos:
 
 • Funções
 
-• Classes
-
 • Programação Orientada a Objetos
 
 ## Escolha do tema
