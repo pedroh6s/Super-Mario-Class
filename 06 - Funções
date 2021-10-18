@@ -1,0 +1,31 @@
+Funções:
+
+Definição => 
+    Conjunto de linhas de código que tem como objetivo executar determinada função.
+É importante lembrar que uma função pode ser “invocada” em outros códigos, sendo 
+importada.
+(Substitui repetições de código e tornar mais fácil a programação)
+
+Ex.:
+Imagine que está construindo uma calculadora e que para cada escolha do usuário haverá uma resposta do programa, nesse caso, deve ser feita uma função para cada operação 
+para não ocorrer tantas repetições e o programa não ficar cansativo de ser escrito.
+
+def soma(x,y):
+    return x+y
+def subtracao(x,y):
+    return x+y
+    .
+    .
+    .
+Assim por diante…
+
+Mas por que utilizar “return” ? 
+Imagine que você queira armazenar o valor de x+y, caso seja utilizado o print nessa situação, ele irá apenas mostrar o resultado, não podendo ser armazenado numa variável.
+Caso utilize o famoso “return”, este valor poderá ser armazenado dentro de uma variável (soma_total por exemplo) para ser utilizada mais tarde no seu código.
+
+“Ah, mas eu não sei como definir funções...”
+Uma função deve ser definida da seguinte maneira:
+    palavra reservada para definir (def) nome_funcao( parâmetros que serão dados ou não):
+    Aqui vai o que você quer que a função faça!
+    
+E pronto, a função foi criada e está pronta para ser utilizada no código atual ou em outros códigos.
