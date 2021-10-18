@@ -28,4 +28,4 @@ Foi pedido que a aula contemplasse os tópicos:
 
 Durante o brainstorming para a elaboração do projeto surgiu um exemplo prático ilustrativo de uma estrutura condicional com o jogo Super Mario World.
 
-Por achar que temas relacionados a jogam facilitam a compreensão e o aprendizado o grupo optou por seguir toda a aula dentro dessa temática.
+Por achar que temas relacionados a jogos facilitam a compreensão e o aprendizado o grupo optou por seguir toda a aula dentro dessa temática.
