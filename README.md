@@ -4,7 +4,7 @@ Esse repositório contém os arquivos utilizados para a aula solicitada pelo cor
 
 A aula foi ministrada em 15/10/2021 nos intervalos de 09:00 às 12:00 e posteriormente de 13:00 às 16:00.
 
-Os responsáveis pela aula foram: Bruno Drummond, Mariana Duarte, Patrícia Toledo e Pedro Moreira.
+Os responsáveis pela aula foram: Bruno Drumond, Mariana Duarte, Patrícia Toledo e Pedro Moreira.
 
 ## Objetivo
 
